@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81830052773",
+    "project_id": "ninja-6ea6e",
+    "storage_bucket": "ninja-6ea6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81830052773:android:3ac2961206f972d1fede4c",
+        "android_client_info": {
+          "package_name": "com.DevMania.Ninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81830052773-n0o3a46qf466jvg1m87fcgsmvn4h46q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6C2lk6HY86QR4heIbXd5X3DfMMarvaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81830052773-n0o3a46qf466jvg1m87fcgsmvn4h46q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
